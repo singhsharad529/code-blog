@@ -1,0 +1,116 @@
+ 
+
+ 
+
+.categoryName{
+    display: inline-block;
+    font-weight: bold;
+     padding: 5px;
+    background-color:#edb20e;
+}
+
+.articleTitle{
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+ 
+}
+
+.articleSubtitle{
+    font-family: 'Nunito', sans-serif;
+    font-size: 25px;
+
+}
+
+hr:not([size]) {
+    height: 3px;
+}
+
+h4 h5 {
+    font-family: 'Poppins', sans-serif;
+
+}
+
+p{
+
+    font-family: 'Nunito', sans-serif;
+
+}
+
+.labels{
+    padding: 10px;
+    display: inline-block;
+}
+.labels p {
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    padding: 9px;
+    border-radius: 20px;
+}
+
+.labelNum{
+    background-color: #bd50d9;
+}
+
+.labelName{
+     background-color: #04cf1f;
+}
+.labelNew{
+    background-color: #04cf1f;
+
+}
+
+
+
+.bottomContent{
+    margin: 10px;
+    display: inline;
+    float: left;
+}
+
+
+.like{
+    border:none;
+}
+
+.bottomShare{
+
+    margin: 10px;
+    display: inline;
+    float: right;
+
+}
+
+.share{
+    border: none;
+}
+
+.blogComment{
+    margin: 10px;
+    padding: 20px;
+    padding-bottom: 20px;
+    border-radius: 20px;
+    background-color: #edeff2;
+    text-align: left;
+}
+
+.commentHeader{
+    margin: 10px;
+    display: inline;
+    float: left;
+}
+
+.commentData{
+    display: inline-block;
+}
+
+.blogCommentUsers{
+    margin: 10px;
+    padding: 20px;
+    padding-bottom: 50px;
+    border-radius: 20px;
+    background-color: #edeff2;
+    text-align: left;
+
+}
+
+

@@ -1,0 +1,39 @@
+.similarArticles{
+    align-items: center;
+}
+
+.articleList{
+    padding: 40px;
+    margin: 20px;
+    text-align: left;
+    background-color: #edeff2;
+    border-radius: 20px;
+}
+
+
+.articleTop{
+
+    margin-left: 40px;
+    margin-right: 40px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: black;
+    color: #edb20e;
+}
+
+.catName{
+    display: inline-block;
+    padding: 5px;
+    background-color: #edb20e;
+    font-weight: bold;
+
+}
+
+
+h1 h3 {
+    font-family: 'Poppins', sans-serif;
+}
+
+P{
+    font-family: 'Nunito', sans-serif;
+}
