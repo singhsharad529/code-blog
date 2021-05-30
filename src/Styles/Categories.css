@@ -8,8 +8,8 @@
     display: inline-block;
     text-align: left;
     margin-top: 30px;
-    margin-left: 80px;
-    margin-right: 80px;
+    margin-left: 20px;
+    margin-right: 20px;
     padding: 15px;
     background-color: #edeff2;
     border-radius: 30px;
@@ -17,6 +17,7 @@
 }
 
 .categoryHeading{
+    padding: 15px;
     font-weight: bold;
      font-family: 'Poppins', sans-serif;;
 }
