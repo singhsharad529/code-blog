@@ -70,6 +70,7 @@ p{
 
 .like{
     border:none;
+    background:none;
 }
 
 .bottomShare{
@@ -82,6 +83,7 @@ p{
 
 .share{
     border: none;
+    background:none;
 }
 
 .blogComment{
